@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cbc2612561344300f128d760",
+  "owner": "ctukukdef",
+  "repo": "page-7243d9cb29b6543096452b8c",
+  "title": "Radiox",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7243d9cb29b6543096452b8c",
+      "a": "Radiox",
+      "b": "稳定全球clash加速器",
+      "entity": "Radiox",
+      "brand": "Radiox",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "05cc32e97530d4c53c7d58f224de3656801f10d2a817ed36dac82d485e4f2519",
+      "content": {
+        "primary_entity": "Radiox",
+        "keyword1": "Radiox",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，Windows 可用 Clash Verge，macOS 可选 ClashX Meta，Android 用 Clash Meta for Android，iOS 用 Stash 或 Shadowrocket。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "从 Radiox 套餐对比开始，按设备与流量选定订阅，再照客户端文档完成配置。",
+          "AI_CLOSING_TITLE": "选 Radiox 按需订阅",
+          "AI_DESCRIPTION": "，Radiox 以全球节点和 Clash 配置订阅为核心，提供基础版、旗舰版与团队版三档方案。基础版每月 100GB、3 台设备，适合入门；旗舰版每月 300GB、5 台设备并带 IPLC 专线游戏优化；团队版每月 1000GB、20 台设备，配 VIP 高带宽节点与专属路由。年付可享折扣，按流量与设备数就能快速定位合适方案。",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个角度挑选 Radiox。",
+          "AI_FEATURES_TITLE": "按需求选 Radiox",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台、旗舰版 300GB/5 台、团队版 1000GB/20 台，按每月用量对应选择。",
+          "AI_FEATURE_TEXT_2": "手机、电脑和平板可同时在线，旗舰版及以上更适合多设备并行的使用场景。",
+          "AI_FEATURE_TEXT_3": "年付方案折算到月更省：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备并行",
+          "AI_FEATURE_TITLE_3": "周期换算",
+          "AI_GUIDE_INTRO": "选定套餐后按三步完成 Radiox 订阅配置。",
+          "AI_GUIDE_TITLE": "Radiox 订阅三步",
+          "AI_HERO_INTRO": "Radiox 面向需要 Clash 订阅的用户，提供基础版、旗舰版与团队版三档套餐，覆盖从个人到团队的流量与设备需求，并按月付或年付灵活选择。",
+          "AI_HERO_SUBTITLE": "Radiox 全球节点 Clash 加速",
+          "AI_HIGHLIGHT_1": "三档套餐按流量对齐",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付方案单月更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量和设备数对比即可。",
+          "AI_PLANS_TITLE": "Radiox 套餐对比",
+          "AI_STEP_TEXT_1": "先看每月流量需求，100GB 选基础版、300GB 选旗舰版、1000GB 选团队版，再结合同时在线设备数确认档位。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端要求，查看所用平台可选的 Clash 客户端类型，核对订阅支持的范围。",
+          "AI_STEP_TEXT_3": "取得订阅后按所选客户端文档导入配置，启用规则与节点分组，完成后测试常用服务连通。",
+          "AI_STEP_TITLE_1": "确认套餐档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配订阅",
+          "AI_VISUAL_TITLE": "Radiox 套餐与客户端",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Radiox 有多少档套餐？",
+          "AI_FAQ_ANSWER_1": "现有基础版、旗舰版、团队版三档。基础版每月15元含100GB流量与3台设备；旗舰版每月35元含300GB流量与5台设备；团队版每月85元含1000GB流量与20台设备。",
+          "AI_FAQ_QUESTION_2": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "年付按月付价格折算更划算。基础版按年付150元，旗舰版350元，团队版850元。月付适合短期试用，年付适合长期稳定使用。",
+          "AI_FAQ_QUESTION_3": "一个订阅能同时在几台设备使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。若设备较多，建议选择旗舰版或团队版以避免超出并发限制。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "先选定套餐并获取订阅链接，再按所用桌面或移动客户端的文档导入。不同客户端界面不同，导入后选择节点即可使用。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、20台设备同时在线，并提供VIP高带宽节点和企业定制路由，适合小团队或多设备共享网络环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5tw26p.cn",
+    "host": "5tw26p.cn"
+  },
+  "file_hashes": {
+    "index.html": "4edac1cfd5846479819b085a982e2369021d4240fcffc8f0e87c9d8e76d69008",
+    "sitemap.xml": "2be82c9c8424f10a62da6a13c0cf9ef599079acea9d1ad97c9da7a8e6ce1de8a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9ceea3de4a5a5bfb28e3998a534a1dfa957fabc4076a04cf403590e211c3f5dd",
+    "robots.txt": "5d56d963fc928991f6b2f8c45b134dedecc2e30e7cf0ba7fb7dd2050476dcf88",
+    "9e39cd884c6ea852abe1724eb2346cef.txt": "2ea08a70fc55f3ff5599b4ee3f38afde3be977732afa91338d7537a82af46d55"
+  },
+  "revision": "070ddfe08597a2c5537398b380af3794d017cd10018540f899e9f826ef0817fc"
+}
